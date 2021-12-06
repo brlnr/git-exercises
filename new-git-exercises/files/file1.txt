@@ -1,3 +1,6 @@
 some content
 and removed file2
 checkout done
+
+
+testing in gitkraken
