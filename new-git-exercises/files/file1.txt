@@ -4,3 +4,4 @@ checkout done
 
 
 testing in gitkraken
+staging, commiting - done
